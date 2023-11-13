@@ -18,6 +18,6 @@
 5. Matplotlib 3.7.1
 
 ### Dataset
--** The public datasets have already uploaded.**
+**The public datasets have already uploaded.**
 
 ## Citing
