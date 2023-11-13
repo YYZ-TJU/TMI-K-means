@@ -1,5 +1,6 @@
 # Tensor Mutual Information K-means
 The codes for the paper 'Optimal Clusters Determination in Disease Diagnosis using Tensor K-Means Variants' are published here, which includes the contrast experiment on diverse medical datasets between our method and other clustering algorithms.
+
 **Remark:** 'ClusteringIndex.py' and 'CPrankupperbound.py' gives the experiment results on CP rank and NMI indicator; meanwhile, 'Med-2cls-NMI&Score.ipynb' has three parts: One for the experiment comparing with 5 different clustering algorithms; one for the experiment comparing with 6 different measures on 10 public datasets; one for the experiment conducting on private and some public datasets with k-fold cross-validation.
 
 ## Clustering Algorithms
