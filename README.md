@@ -3,37 +3,21 @@
 
 ## Clustering Algorithms
 - **Tensor Mutual Information K-means**
-- **
-
+- **K-means**
+- **K-means with TSNE**
+- **AgglomerativeClustering**
+- **DBSCAN**
 ## Requirements
 
 ### Environment
 
-1. Python 3.8
-2. 
-
-### Install
+1. Python 3.10.12
+2. Pandas 1.5.3
+3. Numpy 1.23.5
+4. Sklearn 1.2.2
+5. Matplotlib 3.7.1
 
 ### Dataset
-* [SceneFlow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
-
-
-```Shell
-├── datasets
-    ├── SceneFlow
-        ├── camera_data
-        ├── disparity
-        ├── frames_finalpass
-    ├── kitti2012
-        ├── testing
-        ├── training
-    ├── kitti2015
-        ├── testing
-        ├── training
-    ├── MiddEval3
-        ├── testH
-        ├── trainingH
-```
-## Acknowledgements
+-** The public datasets have already uploaded.**
 
 ## Citing
