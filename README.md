@@ -1,5 +1,5 @@
-# Optimal Clusters Determination in Disease Diagnosis using Tensor K-Means Variants
-**This adapted text provides a clear and concise description of our research, including the algorithm used, the evaluation metrics, and the sources of the datasets.**
+# Tensor Mutual Information K-means
+**The codes for the paper 'Optimal Clusters Determination in Disease Diagnosis using Tensor K-Means Variants' are published here, which includes the contrast experiment on diverse medical datasets between our method and other clustering algorithms.**
 
 ## Clustering Algorithms
 - **Tensor Mutual Information K-means**
